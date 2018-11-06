@@ -29,3 +29,6 @@ Thumbs.db
 *.esproj
 *.sublime-project
 *.sublime-workspace
+
+# Folders to ignore
+node_modules
